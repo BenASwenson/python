@@ -1,6 +1,5 @@
 from simple_calc import SimpleCalc
 
-
 import unittest
 
 
